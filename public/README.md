@@ -11,7 +11,7 @@
 
 - [Zenn](https://zenn.dev/cube_3110)
 - [Qiita](https://qiita.com/stkzk3110)
-- [Github](https://github.com/stkzk3110)
+- [GitHub](https://github.com/stkzk3110)
 - [SpeakerDeck](https://speakerdeck.com/stkzk3110)
 - [X](https://x.com/cube_3110)
 
@@ -23,7 +23,7 @@
 |---|---|
 |期間|2025/04~2025/10|
 |職種|フルスタックエンジニア|
-|役割|シニアエキスパート（SoftwareDevelopmentGroup）|
+|役割|シニアエキスパート（Software Development Group）|
 |仕事内容|ECプラットフォーム「ecforce」の開発・保守<br>認証基盤「ecforce accounts」の開発・保守|
 |チーム規模|30人|
 |プロジェクト詳細・担当業務・主な実績|▼担当業務<br>ECプラットフォーム「ecforce」の開発・保守を担当。<br>認証基盤「ecforce accounts」の開発・保守を担当。<br>「ecforce」の請求管理・運用を担当。<br>▼詳細<br>導入累計アカウント数1500以上(2024年10月末日時点)の中規模なモノリスアプリケーションの開発・保守を行うチームの開発責任者を担当。<br>認証基盤「ecforce accounts」の開発・保守を担当。|
@@ -47,7 +47,7 @@
 |仕事内容|ECプラットフォーム「ecforce」の開発・保守|
 |チーム規模|20人|
 |プロジェクト詳細・担当業務・主な実績|▼担当業務<br>ECプラットフォーム「ecforce」の開発・保守を担当。<br>ユニットのKPI設定・管理、メンバーの目標設定・評価・採用（正社員・業務委託）を担当。<br>「ecforce」の請求管理・運用を担当。<br>▼詳細<br>導入累計アカウント数1000以上（2023/2月時点）の中規模なモノリスアプリケーションの開発・保守を行うチームのMGR・開発責任者を担当<br>開発のMGRとして5人相当のメンバーのマネジメントを行いつつ、現場の第一人者として「ecforce」の開発・保守の現場に立ち続けました。エンタープライズに特化したユニットを立ち上げ、まずは知名度向上のため、今までのコネクションを活かしてエンタープライズ関連のMTGに軒並み参加してセールスや移行EN、PMと関わり、エンタープライズの要望に対しての「ecforce」の開発での貢献やビジネス側から開発側へカート移行や提案を進める上での課題（要望に対してのecforceで実現できそうかどうかの判断や見積もり、現状の仕様についての回答）などを相談しやすいような体制を構築し、半年で知名度やユニットとしての存在感をアピールすることができた。|
-|利用技術|Ruby、Ruby on Rails、Backbone.js、jQuery、CoffeeScript、MySQL、AWS、Git、GitHub、VSCode、TablePlus、Jira、Jenkins、NewRelic、Slack|
+|利用技術|Ruby、Ruby on Rails、Backbone.js、jQuery、CoffeeScript、MySQL、AWS、Git、GitHub、VSCode、TablePlus、Jira、Jenkins、New Relic、Slack|
 
 |key|value|
 |---|---|
@@ -97,7 +97,7 @@
 
 |key|value|
 |---|---|
-|期間|2019/07~2019/09|
+|期間|2018/12~2019/05|
 |職種|システムエンジニア|
 |役割|メンバー|
 |仕事内容|Androidのおサイフケータイアプリ開発|
