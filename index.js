@@ -18,7 +18,6 @@ var kn=Object.defineProperty;var Zt=e=>{throw TypeError(e)};var Cn=(e,t,r)=>t in
 - [Qiita](https://qiita.com/stkzk3110)
 - [GitHub](https://github.com/stkzk3110)
 - [SpeakerDeck](https://speakerdeck.com/stkzk3110)
-- [X](https://x.com/cube_3110)
 
 ## 経歴
 
@@ -26,7 +25,7 @@ var kn=Object.defineProperty;var Zt=e=>{throw TypeError(e)};var Cn=(e,t,r)=>t in
 
 |key|value|
 |---|---|
-|期間|2025/04~2025/10|
+|期間|2025/04~現在|
 |職種|フルスタックエンジニア|
 |役割|シニアエキスパート（Software Development Group）|
 |仕事内容|ECプラットフォーム「ecforce」の開発・保守<br>認証基盤「ecforce accounts」の開発・保守|
